@@ -32,7 +32,7 @@
       <br>Angular
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="NestJS" />
       <br>Express
     </td>
     <td align="center" width="90">
