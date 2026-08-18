@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Web+and+Blockchain+Engineer;Over+10+years+of+Experience+in+Web+and+Blockchain" alt="Typing SVG" /></a>
 </div>
@@ -155,7 +157,7 @@
 </p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefTechDev&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefTechDev&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="@ChiefTechDev's top languages" />
   <a width='50%' href="https://github.com/ChiefTechDev?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=ChiefTechDev&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@ChiefTechDev's trophy stats"/>
   </a>
